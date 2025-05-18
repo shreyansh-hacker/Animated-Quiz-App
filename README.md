@@ -6,7 +6,13 @@ If you want to work locally using your own IDE, you can clone this repo and push
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+Follow these steps:![Screenshot 2025-05-18 213032](https://github.com/user-attachments/assets/3a2de2f3-bfea-4c33-95e3-d90bd95f7c4f)
+![Screenshot 2025-05-18 212719](https://github.com/user-attachments/assets/e5748a53-5535-47a7-877c-3020bc3a4736)
+![Screenshot 2025-05-18 212735](https://github.com/user-attachments/assets/82bc120a-e492-4155-8237-60041a612d91)
+![Screenshot 2025-05-18 212817](https://github.com/user-attachments/assets/b2f02ca3-d495-469f-982a-f8aaf7bb1501)
+![Screenshot 2025-05-18 212949](https://github.com/user-attachments/assets/53e14512-78f1-458c-935b-787615a68b52)
+![Screenshot 2025-05-18 213015](https://github.com/user-attachments/assets/eb4d72f2-9b42-4434-8aac-2f22881b4ac3)
+
 
 # Step 1: Clone the repository using the project's Git URL.
 git clone https://github.com/shreyansh-hacker/Animated-Quiz-App.git
